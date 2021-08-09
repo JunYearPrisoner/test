@@ -1,2 +1,2 @@
-# test.gthub.io
+# test
 test
