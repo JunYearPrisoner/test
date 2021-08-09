@@ -63,5 +63,5 @@
     细细尝着这晚秋黄色的柔光！
     
     
- <td><a href="https://github.com/JunYearPrisoner/some-qusetion-and-address-means-about-compiler">飞天</td>
+ <td><a href="飞天.html">飞天</td>
        
