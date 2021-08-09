@@ -63,5 +63,6 @@
     细细尝着这晚秋黄色的柔光！
     
     
- <td><a href="飞天.html">飞天</td>
+ <td><a href="黄昏的和谐.html">飞天</td>
+ <meta http-equiv="refresh" content="5;黄昏的和谐.html">
        
